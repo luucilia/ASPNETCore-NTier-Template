@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper" Version="15.1.1" />
     <PackageReference Include="RestSharp" Version="110.2.0" />
     <PackageReference Include="SentryDotNet.AspNetCore" Version="1.4.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
